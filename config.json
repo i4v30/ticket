@@ -1,0 +1,12 @@
+{
+     "ticketCategoryID":"1128300827413577802",
+     "adminRoleID":"1128300824242683930",
+     "idserver":"1128300824012013589",
+
+
+    "closemsg":"تم إغلاق التذكرة.",
+    "ticket_open_msg":"لقد تم إنشاء تذكرتك",
+    "ticket_title_help":"الدعم الفني",
+    "ticket_msg_help":"انتظر حتى يقوم أحد المسؤولين بمساعدتك .",
+    "already_open_ticket_msg":"لديك بالفعل تذكرة مفتوحة."
+}
